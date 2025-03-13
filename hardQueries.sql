@@ -1,0 +1,21 @@
+-- Queries
+-- 1. Retrieve users who have never liked or commented on any post or reel.
+-- 2. Find the user who has received the most likes on their posts.
+-- 3. Retrieve all messages along with sender and receiver details.
+-- 4. List posts along with the number of likes, sorted by highest likes.
+-- 5. Find the user who has seen the most reels.
+-- 6. Retrieve all reels along with the count of unique users who have seen them.
+-- 7. Find the most popular post in terms of likes and comments combined.
+-- 8. Retrieve users who follow someone but have never interacted with their content.
+-- 9. Find users who have never received a message but have sent at least one.
+-- 10. List users who have never followed anyone but have followers.
+-- 11. Retrieve the top 5 users with the most active followers (followers who like and comment frequently).
+-- 12. Find the percentage of posts that have at least one comment.
+-- 13. Get users who have interacted (liked/commented) with at least 10 different users.
+-- 14. Find users who have liked posts but never reels.
+-- 15. Retrieve the average number of likes per post for each user.
+-- 16. Find the user who has received the most comments on their reels.
+-- 17. Get all posts that have never been liked but have comments.
+-- 18. Find users who have more than twice as many followers as the number of people they follow.
+-- 19. Retrieve all reels that were watched by a user but not liked or commented on.
+-- 20. Find the most commented reel and its creator.
